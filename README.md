@@ -38,7 +38,7 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 ---
 
 #### :computer: My Tools: 
-<p>
+<p style="background-color: white;">
 <img width="50%" align="right" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
@@ -64,7 +64,7 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 
 ## 📫 Get in Touch
 - ✉️ Email: daveqmejia@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/davemejia](https://linkedin.com/in/daveqmejia)  
+- 💼 LinkedIn: [linkedin.com/in/daveqmejia](https://linkedin.com/in/daveqmejia)  
 - 🐙 GitHub: [github.com/davecodes-git](https://github.com/davecodes-git)  
 
 ---
