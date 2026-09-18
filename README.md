@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dave Mejia
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/davecodes-git)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/davemejia)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daveqmejia)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:daveqmejia@gmail.com)
 
 💻 **Django Web Developer** | Building real-world applications with Django, TailwindCSS, Bootstrap, and HTMX.  
