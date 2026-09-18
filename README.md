@@ -64,7 +64,7 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 
 ## 📫 Get in Touch
 - ✉️ Email: daveqmejia@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/davemejia](https://linkedin.com/in/davemejia)  
+- 💼 LinkedIn: [linkedin.com/in/davemejia](https://linkedin.com/in/daveqmejia)  
 - 🐙 GitHub: [github.com/davecodes-git](https://github.com/davecodes-git)  
 
 ---
