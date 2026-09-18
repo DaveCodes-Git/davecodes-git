@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/daveqmejia)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:daveqmejia@gmail.com)
 
-💻 **Django Web Developer** | Building real-world applications with Django, TailwindCSS, Bootstrap, and HTMX.  
+💻 **Django/Python Website Developer** | Building real-world applications with Django, TailwindCSS, Bootstrap, and HTMX.  
 
 I enjoy creating **database-driven apps** with clean UI and interactive features — all without the need for heavy frontend frameworks.  
 My focus is on building apps that are simple, scalable, and production-ready.  
