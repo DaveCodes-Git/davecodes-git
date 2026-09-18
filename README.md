@@ -38,7 +38,7 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 ---
 
 #### :computer: My Tools: 
-<p style="background-color: white;">
+<p style="background-color: #ffffff !important;">
 <img width="50%" align="right" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
