@@ -33,7 +33,7 @@ Here are some of my favorite projects (more in my pinned repos 👇):
 - **Backend:** Python (Django), PHP (WordPress, custom plugins), JAMstack (JavaScript, APIs, Markup)
 - **Frontend:** HTML, CSS, JavaScript, jQuery, HTMX, TailwindCSS, Bootstrap
 - **Database:** PostgreSQL, MySQL, SQLite
-- **Other Tools:** Git, GitHub, REST APIs, Deployment (Render, Railway, Vercel)
+- **Other Tools:** Git, GitHub, REST APIs, Deployment (AWS, Render, Railway, Vercel)
 
 ---
 
